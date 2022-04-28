@@ -1,0 +1,21 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "automation practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jp",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^8.2.3",
+    "cypress": "^9.6.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-wait-until": "^1.7.2",
+    "cypress-xpath": "^1.6.2",
+    "typescript": "~4.2.4"
+  }
+}
